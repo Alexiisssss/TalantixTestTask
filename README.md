@@ -663,7 +663,6 @@ CREATE TABLE SemesterPlans (
 );
 
 
-
 **ER-Диаграмма**
 
 <p>&nbsp;</p>
