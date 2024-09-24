@@ -9,7 +9,7 @@
 ```csharp
 string sumProp(int nSum, string sGender, string sCase);
 
-Параметры:
+**Параметры:**
 
 nSum - целое число менее триллиона (максимум 999 999 999 999).
 
