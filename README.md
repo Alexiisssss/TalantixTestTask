@@ -666,3 +666,6 @@ CREATE TABLE SemesterPlans (
 
 **ER-Диаграмма**
 
+<p>&nbsp;</p>
+![image](https://github.com/user-attachments/assets/08578942-6725-4d3e-aeb1-4bd5d5c73c6f)
+
